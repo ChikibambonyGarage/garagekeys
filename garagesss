@@ -1,14 +1,12 @@
 {
-    "OnOff": false,
-    "Langs": ["ru"],
-    "Tzones": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "OnOff": true,
+    "Langs": ["es"],
+    "Tzones": ["Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
     "LinksConfigs": [
     {
-      "LanguageCode": "ru",
-      "SupportedTimezones": ["Moscow", "Samara", "Yekaterinburg"],
-      "AvailableLinks": [""]
+      "LanguageCode": "es",
+      "SupportedTimezones": ["Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
+      "AvailableLinks": ["https://lkbb.cc/6e55"]
     }
   ]
 }
